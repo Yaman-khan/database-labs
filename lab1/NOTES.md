@@ -61,3 +61,8 @@
 - Learn Git branching and merging
 - Explore database optimization techniques
 - Build a personal project using PostgreSQL
+## GitHub Repository
+- Successfully pushed to: https://github.com/Yaman-khan/database-labs
+- All files backed up on cloud
+- Repository is public for teacher review
+- Total commits: 3
