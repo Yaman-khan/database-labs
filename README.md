@@ -24,3 +24,8 @@ Setting up PostgreSQL, DBeaver, and Git for database development.
 - Database creation and management
 - Writing SQL queries
 - Version control with Git and GitHub
+## Progress
+- ✅ Environment setup complete
+- ✅ PostgreSQL database created
+- ✅ Sample data inserted
+- ✅ Git and GitHub configured
